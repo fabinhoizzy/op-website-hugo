@@ -84,6 +84,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ênio Vinicius C. dos Santos    | enio.vi.santos@gmail.com              | https://github.com/eniovi                 |
 | Enoque de Sousa Neres          | enoque.sneres@live.com                | https://github.com/enqneres               |
 | Fabio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj               |
+| Fábio da SIlva Alves           | fabinhoevil16@hotmail.com             | https://github.com/fabinhoizzy            |
 | Fabricio Albuquerque Ribas     | fabricioaribas@gmail.com              | https://github.com/fabricioribas          |
 | Fabricio Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967            |
 | Felipe Alves                   | No Email                              | https://github.com/batocciero             |
@@ -273,4 +274,4 @@ Ao adicionar o seu nome, por favor observe:
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos            |
 | Zilton Sales                   | No Email                              | https://github.com/sokolov13              |
-| Fábio da SIlva Alves           | fabinhoevil16@hotmail.com             | https://github.com/fabinhoizzy            |
+
